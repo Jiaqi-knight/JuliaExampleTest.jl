@@ -1,10 +1,2 @@
-using JuliaExampleTest
-using Test
-
-
-@testset "JuliaExampleTest.jl" begin
-    # Write your tests here.
-    @test subfunction(2,1) == 8
-    @test subfunction(2,3) == 12
-
-end
+using SafeTestsets
+@safetestset "My function Tests" begin include("my_f_tests.jl") end
