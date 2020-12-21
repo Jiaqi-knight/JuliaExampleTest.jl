@@ -4,3 +4,6 @@
 [![Build Status](https://ci.appveyor.com/api/projects/status/github/jiaqi-knight/JuliaExampleTest.jl?svg=true)](https://ci.appveyor.com/project/jiaqi-knight/JuliaExampleTest-jl)
 [![Coverage](https://codecov.io/gh/jiaqi-knight/JuliaExampleTest.jl/branch/master/graph/badge.svg)](https://codecov.io/gh/jiaqi-knight/JuliaExampleTest.jl)
 [![Coverage](https://coveralls.io/repos/github/jiaqi-knight/JuliaExampleTest.jl/badge.svg?branch=master)](https://coveralls.io/github/jiaqi-knight/JuliaExampleTest.jl?branch=master)
+
+
+This is a repository for a linear function 'my_linear_f'
